@@ -1,3 +1,6 @@
 string 1
 string 2
 string 3 (webUI)
+
+test string 1
+test string 2 (check gui work)
